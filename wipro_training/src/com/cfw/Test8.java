@@ -17,7 +17,7 @@ public class Test8 {
 		
 		System.out.println(sm);
 		
-		
+		System.out.println();
 		
 		
 		
